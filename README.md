@@ -1,4 +1,4 @@
-# Bash Script for Running Python Programs and Saving Execution Timings  
+# Bash Timing Scripts
 
 ## Overview  
 This project contains a Bash script (`script.sh`) that automates the execution of multiple Python programs for various problem sizes and saves the execution timings into separate output files.  
